@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 *.pdf
 report_*.md
+lora_adapter/
